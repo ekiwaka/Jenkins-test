@@ -9,7 +9,7 @@ int product(int x, int y) {
 int main(){
 	int var;
 	printf("Enter a number");
-	scanf("%d", &var)
+	scanf("%d", &var);
 	product (3,var);
 	return 0;
 }
