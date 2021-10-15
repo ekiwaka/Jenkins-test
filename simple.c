@@ -1,7 +1,7 @@
 #include <stdio.h>
 int product(int x, int y) {
    // printf() displays the product of two numbers
-   printf(x*y);
+   printf("%d", x*y);
    return 0;
 }
 
